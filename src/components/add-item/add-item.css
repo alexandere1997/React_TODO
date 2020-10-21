@@ -1,0 +1,13 @@
+.item-add-form{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.item-add-form input{
+  margin-right: 3px;
+}
+.item-add-form button{
+  margin-top: 10px;
+  background-color: darkmagenta;
+  color: #fff;
+}
